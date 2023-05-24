@@ -1,1 +1,1 @@
-# This is a learning shell
+# This is a learning shell script
